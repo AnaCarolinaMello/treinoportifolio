@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)https://preview.colorlib.com/theme/calvin/index.html -->
+<html class="js sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers" lang="zxx"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title> Personal | Template</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="https://preview.colorlib.com/theme/calvin/site.webmanifest">
+<link rel="shortcut icon" type="image/x-icon" href="https://preview.colorlib.com/theme/calvin/assets/img/favicon.ico">
+
+<link rel="stylesheet" href="./relogio_files/A.bootstrap.min.css+owl.carousel.min.css+slicknav.css+progressbar_barfiller.css+gijgo.css+animate.min.css+animated-headline.css+magnific-popup.css.css">
+<link rel="stylesheet" href="./relogio_files/A.style.css.pagespeed.cf.IzxbW90k31.css">
+</head>
+<body style="overflow: visible;">
+
+<div id="preloader-active" style="display: none;">
+<div class="preloader d-flex align-items-center justify-content-center">
+<div class="preloader-inner position-relative">
+<div class="preloader-circle"></div>
+<div class="preloader-img pere-text">
+<script type="text/javascript" async="" src="./relogio_files/analytics.js.download"></script><script data-pagespeed-no-defer="">//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}
+var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;
+function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}
+function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),
+b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});
+function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=
+new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}
+function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});
+u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();
+
+pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://preview.colorlib.com/theme/calvin/index.html','-ilGEe-FWC',true,false,'7M5NiCSKcgE');
+//]]></script><img src="data:image/webp;base64,UklGRloBAABXRUJQVlA4TE0BAAAvI8AIEP+gIJKV6uif0g78Qa1hIG2b7P4tnypoI0mZO//yTsczI4K2beMi+M5gDH7+qMZgAfz+XtvarmMt17a2UKypG8ZQulSFTHMOw8kFH9T/d8QP0wfq+wFDNCghC4bR3w8g1rbbtsF3U5cAuBuMtP+cjvGpDSL6PwGStttfWVXX8ryZVL4WTRev4UXp4tRTqz5yVrRysYStWn21X0V3LD+euuv7H9ed/atQ40QUEblqfumOaAh1kUhNDQAuxDR7AnBsZ6XtnmqAs9a8f1IjgKXGK1J6BDpVXWYi1lwHHHVs0BCr5pcDcARwJOgGAJpR2Y2YAMxKb0HoCWi5eDE9cORed2Y5AAN1N0Yb4EKZBDPh2DIh4oyOSruIBMOHiIjv5V/y3uct/8ceIT9tq7fZL7GoFSbpd523sB5cuFT0yIVLZbu/YlPd4nU3SQMA" alt="" data-pagespeed-url-hash="258615398" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+</div>
+</div>
+</div>
+
+<header>
+<div class="header-area header-transparent">
+<div class="main-header header-sticky sticky-bar">
+<div class="container-fluid">
+<div class="menu-wrapper d-flex align-items-center justify-content-between">
+
+<div class="logo">
+<a href="https://preview.colorlib.com/theme/calvin/index.html"><img src="data:image/webp;base64,UklGRkACAABXRUJQVlA4TDQCAAAvhkALEIcw//M//2obSWqTn3n/kNEPAfjHw0Uj4TAoGAIGgYEgICBJthOHEYNnDP/+1430JXCyyyKi/w7ctnEkZVtmyzmZel+Q/3bWALS4qHOgZfnW8tE6gN6O/CE7TG6+s3SD2Z0+41Sy5UOrA9xG+aOHDUBg+644ffgNdT3Onx8pl9reaX6nNRVwMiqKSsb+B6lmd1rW+wdRX69USP8RYtKRjjaA0Y7koHN2GC1J9WsRAYBTjACRdL7AeKo3HgF4r0ijH37SS621Jl0jpOuO3Tt0rZbV2+aTSzeab9p34qNR0ZqDdoHaztGSzAj7AOjiw1KHi1a4tdfbquMHJFHLnMwykkyELsOR7GfTb/bHDI8KJ4sUpeByHnkBPMwvLkpoFqmvkWyzeSbbxg5n5I/DojHBNopJW3J8By3ZVFcjZTsbjfqyg58kDnWHyajv8Lq0YhqPo6wqFkn73ZT1ANKMu5lG53O7mSu0AZiBZtlrtJNF2I17m2buc3ICeQ5EOyYG6x2YIilX696/Y370ziJpABibav7NgTW2R/spygInNJc5OjoflE0/cDC6htzmd+eYeGR+Zj+MRMMTQn9nM/4SnsCHYuucQ61zTiWiJzuEvFUkP4ihnu8/ktMCJobNraObn9mjq75ClfQYG5kyFxCfRDJo+rboGvhhSrYY0rWqbQ3RKbWCd8zMhd3ZqEmN5SPIpVXJOuRkwSXhh9n/R/szgH4lkRGANJdrCf5yywRni/+Xmwg=" alt="" data-pagespeed-url-hash="4274460017" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+</div>
+
+<div class="main-menu f-right d-none d-lg-block">
+<nav>
+<ul id="navigation">
+<li><a href="https://preview.colorlib.com/theme/calvin/index.html">Home</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/work.html">work</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/service.html">service</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/blog.html">Blog</a>
+<ul class="submenu">
+<li><a href="https://preview.colorlib.com/theme/calvin/blog.html">Blog</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/blog_details.html">Blog Details</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/elements.html">Elements</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/calvin/contact.html">Contact</a></li>
+</ul>
+</nav>
+</div>
+
+<div class="header-info-right d-none d-lg-block">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="border-btn">Let's Talk</a>
+</div>
+
+<div class="col-12">
+<div class="mobile_menu d-block d-lg-none"><div class="slicknav_menu"><a href="https://preview.colorlib.com/theme/calvin/index.html#" aria-haspopup="true" role="button" tabindex="0" class="slicknav_btn slicknav_collapsed" style="outline: none;"><span class="slicknav_menutxt">MENU</span><span class="slicknav_icon"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a><ul class="slicknav_nav slicknav_hidden" style="display: none;" aria-hidden="true" role="menu">
+<li><a href="https://preview.colorlib.com/theme/calvin/index.html" role="menuitem" tabindex="-1">Home</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/work.html" role="menuitem" tabindex="-1">work</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/service.html" role="menuitem" tabindex="-1">service</a></li>
+<li class="slicknav_collapsed slicknav_parent"><a href="https://preview.colorlib.com/theme/calvin/index.html#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: none;"><a href="https://preview.colorlib.com/theme/calvin/blog.html" tabindex="-1">Blog</a>
+<span class="slicknav_arrow">+</span></a><ul class="submenu slicknav_hidden" role="menu" style="display: none;" aria-hidden="true">
+<li><a href="https://preview.colorlib.com/theme/calvin/blog.html" role="menuitem" tabindex="-1">Blog</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/blog_details.html" role="menuitem" tabindex="-1">Blog Details</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/elements.html" role="menuitem" tabindex="-1">Elements</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/calvin/contact.html" role="menuitem" tabindex="-1">Contact</a></li>
+</ul></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</header>
+<main>
+
+<div class="slider-area position-relative">
+<div class="single-slider slider-height d-flex align-items-center">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-xl-4 col-lg-5 col-md-5 col-sm-4">
+<div class="employee">
+<img src="./relogio_files/xempolye.png.pagespeed.ic.zBM4C3aZP5.webp" alt="" data-pagespeed-url-hash="2702000056" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+</div>
+<div class="col-xl-8 col-lg-7 col-md-7 col-sm-8">
+
+<div class="hero__caption">
+<h1>My name is Calvin.<br> Digital Product Designer</h1>
+<p>Head of design at Calvino</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="about-info ">
+<div class="container">
+<div class="row">
+<div class="col-lg-5 col-md-3 col-sm-3">
+<div class="about-info-single">
+<p>Design For</p>
+<span>Web &amp; Mobile</span>
+</div>
+</div>
+<div class="col-lg-7 col-md-9 col-sm-9">
+<div class="about-info-wrapper d-flex justify-content-between flex-wrap">
+<div class="about-info-single text-right">
+<p>Phone</p>
+<span>+10 (67) 367-9034</span>
+</div>
+<div class="about-info-single text-right d-flex align-items-center">
+<div class="about-info-single mr-5">
+<p>Drop your Message</p>
+<span><u>calvino90@gmail.com</u></span>
+</div>
+<div class="icon">
+<img src="./relogio_files/xemail-icon.png.pagespeed.ic.yAqvkS6N4u.webp" alt="" data-pagespeed-url-hash="1102284399" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+
+<section class="our-services  section-padding40">
+<div class="container">
+<div class="row">
+<div class="col-xl-8 col-lg-8">
+
+<div class="section-tittle mb-80">
+<h2>My Experties</h2>
+</div>
+</div>
+</div>
+<div class="row no-gutters">
+<div class=" col-lg-6 col-md-6 col-sm-6">
+<div class="single-services">
+<div class="services-ion">
+<img src="./relogio_files/services1.svg" alt="" data-pagespeed-url-hash="3269748748" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="services-cap">
+<h5><a href="https://preview.colorlib.com/theme/calvin/index.html#">Strategy &amp; Direction</a></h5>
+<p>Understand First. Lorem ipsum dolor sit amet,
+consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.</p>
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="browse-btn">Head of design at Calvino</a>
+</div>
+</div>
+</div>
+<div class=" col-lg-6 col-md-6 col-sm-6">
+<div class="single-services">
+<div class="services-ion">
+<img src="./relogio_files/services2.svg" alt="" data-pagespeed-url-hash="3564248669" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="services-cap">
+<h5><a href="https://preview.colorlib.com/theme/calvin/index.html#">Strategy &amp; Direction</a></h5>
+<p>Understand First. Lorem ipsum dolor sit amet,
+consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.</p>
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="browse-btn">Head of design at Calvino</a>
+</div>
+</div>
+</div>
+<div class=" col-lg-6 col-md-6 col-sm-6">
+<div class="single-services">
+<div class="services-ion">
+<img src="./relogio_files/services3.svg" alt="" data-pagespeed-url-hash="3858748590" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="services-cap">
+<h5><a href="https://preview.colorlib.com/theme/calvin/index.html#">Strategy &amp; Direction</a></h5>
+<p>Understand First. Lorem ipsum dolor sit amet,
+consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.</p>
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="browse-btn">Head of design at Calvino</a>
+</div>
+</div>
+</div>
+<div class=" col-lg-6 col-md-6 col-sm-6">
+<div class="single-services">
+<div class="services-ion">
+<img src="./relogio_files/services4.svg" alt="" data-pagespeed-url-hash="4153248511" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="services-cap">
+<h5><a href="https://preview.colorlib.com/theme/calvin/index.html#">Strategy &amp; Direction</a></h5>
+<p>Understand First. Lorem ipsum dolor sit amet,
+consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.</p>
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="browse-btn">Head of design at Calvino</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="gallery-area gallery-area2 section-padding40">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="section-tittle mb-60">
+<h2>My Works</h2>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6 col-sm-6">
+<div class="box snake mb-30">
+<div class="gallery-img small-img " style="background-image:url(assets/img/gallery/xgallery1.png.pagespeed.ic.Up3oFhc0AB.webp)"></div>
+<div class="overlay" style="top: -1e+07px;">
+<div class="overlay-content">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="img-pop-up">Strategy &amp; Direction</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-sm-6">
+<div class="box snake mb-30">
+<div class="gallery-img small-img " style="background-image:url(assets/img/gallery/xgallery2.png.pagespeed.ic.fszgEo6dsc.webp)"></div>
+<div class="overlay" style="top: -1e+07px;">
+<div class="overlay-content">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="img-pop-up">Strategy &amp; Direction</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-sm-6">
+<div class="box snake mb-30">
+<div class="gallery-img small-img " style="background-image:url(assets/img/gallery/xgallery3.png.pagespeed.ic.qnoV8U_8Hx.webp)"></div>
+<div class="overlay" style="top: 0px; left: 570px; width: 570px; height: 400px;">
+<div class="overlay-content">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="img-pop-up">Strategy &amp; Direction</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-sm-6">
+<div class="box snake mb-30">
+<div class="gallery-img small-img " style="background-image:url(assets/img/gallery/xgallery4.png.pagespeed.ic.3BAHAxRLqd.webp)"></div>
+<div class="overlay" style="top: 0px; left: 0px; width: 570px; height: 400px;">
+<div class="overlay-content">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="img-pop-up">Strategy &amp; Direction</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<div class="more-btn text-center mt-40">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="border-btn2">More Work</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="about-area section-padding40">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-xl-6 col-lg-6 col-md-10">
+<div class="about-caption mb-50">
+
+<div class="section-tittle mb-35">
+<h2>About Me</h2>
+</div>
+<p>In the mean time shall soon find out the cause of this: What
+was the epicurus towards their children; each of these can
+have a chain of not to have been taken in the broad plain in
+what is the reason why</p>
+<p class="bottom-content">"What was the epicurus towards their children; each of these can have a chain.</p>
+</div>
+</div>
+<div class="col-lg-6">
+
+<div class="skill-ara">
+<div class="skill">
+<div class="single-skill">
+<div class="progress-count">
+<p>User Interface Design</p><span>60%</span>
+</div>
+<div class="progress">
+<div class="progress-bar wow slideInLeft" data-wow-duration="1s" data-wow-delay=".5s" aria-valuenow="25" role="progressbar" style="width: 60%; visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: slideInLeft;" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+</div>
+<div class="single-skill">
+<div class="progress-count">
+<p>User Experience</p><span>89%</span>
+</div>
+<div class="progress">
+<div class="progress-bar wow slideInLeft" data-wow-duration="1s" data-wow-delay=".7s" role="progressbar" style="width: 89%; visibility: visible; animation-duration: 1s; animation-delay: 0.7s; animation-name: slideInLeft;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+</div>
+<div class="single-skill">
+<div class="progress-count">
+<p>Illustration</p><span>95%</span>
+</div>
+<div class="progress">
+<div class="progress-bar wow slideInLeft" data-wow-duration="1s" data-wow-delay=".6s" role="progressbar" style="width: 95%; visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: slideInLeft;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="brand-area">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="brand-active brand-border slick-initialized slick-slider">
+<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 3900px; transform: translate3d(-1365px, 0px, 0px);"><div class="single-brand slick-slide slick-cloned" data-slick-index="-6" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand2.png.pagespeed.ic.OD0imHqzyK.webp" alt="" data-pagespeed-url-hash="907469596" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="-5" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand3.png.pagespeed.ic.rSIKLxkw65.webp" alt="" data-pagespeed-url-hash="1201969517" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand4.png.pagespeed.ic.encEZtoAc6.webp" alt="" data-pagespeed-url-hash="1496469438" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand5.png.pagespeed.ic.X0wj8jdFQ3.webp" alt="" data-pagespeed-url-hash="1790969359" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand6.png.pagespeed.ic.W4y1ccmLsW.webp" alt="" data-pagespeed-url-hash="2085469280" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand3.png.pagespeed.ic.rSIKLxkw65.webp" alt="" data-pagespeed-url-hash="1201969517" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide" data-slick-index="0" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand1.png.pagespeed.ic.OHugElYSOB.webp" alt="" data-pagespeed-url-hash="612969675" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 195px;" tabindex="0">
+<img src="./relogio_files/xbrand2.png.pagespeed.ic.OD0imHqzyK.webp" alt="" data-pagespeed-url-hash="907469596" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 195px;" tabindex="0">
+<img src="./relogio_files/xbrand3.png.pagespeed.ic.rSIKLxkw65.webp" alt="" data-pagespeed-url-hash="1201969517" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 195px;" tabindex="0">
+<img src="./relogio_files/xbrand4.png.pagespeed.ic.encEZtoAc6.webp" alt="" data-pagespeed-url-hash="1496469438" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-active" data-slick-index="4" aria-hidden="false" style="width: 195px;" tabindex="0">
+<img src="./relogio_files/xbrand5.png.pagespeed.ic.X0wj8jdFQ3.webp" alt="" data-pagespeed-url-hash="1790969359" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-active" data-slick-index="5" aria-hidden="false" style="width: 195px;" tabindex="0">
+<img src="./relogio_files/xbrand6.png.pagespeed.ic.W4y1ccmLsW.webp" alt="" data-pagespeed-url-hash="2085469280" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-active" data-slick-index="6" aria-hidden="false" style="width: 195px;" tabindex="0">
+<img src="./relogio_files/xbrand3.png.pagespeed.ic.rSIKLxkw65.webp" alt="" data-pagespeed-url-hash="1201969517" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand1.png.pagespeed.ic.OHugElYSOB.webp" alt="" data-pagespeed-url-hash="612969675" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand2.png.pagespeed.ic.OD0imHqzyK.webp" alt="" data-pagespeed-url-hash="907469596" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand3.png.pagespeed.ic.rSIKLxkw65.webp" alt="" data-pagespeed-url-hash="1201969517" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="10" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand4.png.pagespeed.ic.encEZtoAc6.webp" alt="" data-pagespeed-url-hash="1496469438" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="11" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand5.png.pagespeed.ic.X0wj8jdFQ3.webp" alt="" data-pagespeed-url-hash="1790969359" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="12" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand6.png.pagespeed.ic.W4y1ccmLsW.webp" alt="" data-pagespeed-url-hash="2085469280" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div><div class="single-brand slick-slide slick-cloned" data-slick-index="13" aria-hidden="true" style="width: 195px;" tabindex="-1">
+<img src="./relogio_files/xbrand3.png.pagespeed.ic.rSIKLxkw65.webp" alt="" data-pagespeed-url-hash="1201969517" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div></div></div>
+
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</section>
+
+
+<section class="testimonial-area">
+<div class="container">
+<div class="testimonial-wrapper">
+<div class="row">
+<div class="col-lg-12">
+
+<div class="section-tittle text-center mb-50">
+<h2>Client Testimonial</h2>
+</div>
+</div>
+</div>
+<div class="row align-items-center justify-content-center">
+<div class=" col-lg-10 col-md-12 col-sm-11">
+
+<div class="h1-testimonial-active slick-initialized slick-slider"><button type="button" class="slick-prev slick-arrow" style="display: block;"><i class="ti-angle-left"></i></button>
+
+<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4850px; transform: translate3d(-1940px, 0px, 0px);"><div class="single-testimonial text-center slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 970px;" tabindex="-1">
+<div class="testimonial-caption">
+<p>"Supercharge your WordPress hosting with detailed website analytics, marketing
+tools. Our experts are just part of the reason Bluehost is the ideal home for your
+WordPress website. We're here to help you succeed!</p>
+</div>
+
+<div class="testimonial-founder d-flex align-items-center justify-content-center">
+<div class="founder-img">
+<img src="./relogio_files/xtestimonial.png.pagespeed.ic.e1BcsjIiek.webp" alt="" data-pagespeed-url-hash="17877349" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="founder-text">
+<span>Jacson Miller</span>
+<p>Designer @Colorlib</p>
+</div>
+</div>
+</div><div class="single-testimonial text-center slick-slide" data-slick-index="0" aria-hidden="true" style="width: 970px;" tabindex="-1">
+<div class="testimonial-caption">
+<p>"Supercharge your WordPress hosting with detailed website analytics, marketing
+tools. Our experts are just part of the reason Bluehost is the ideal home for your
+WordPress website. We're here to help you succeed!</p>
+</div>
+
+<div class="testimonial-founder d-flex align-items-center justify-content-center">
+<div class="founder-img">
+<img src="./relogio_files/xtestimonial.png.pagespeed.ic.e1BcsjIiek.webp" alt="" data-pagespeed-url-hash="17877349" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="founder-text">
+<span>Jacson Miller</span>
+<p>Designer @Colorlib</p>
+</div>
+</div>
+</div><div class="single-testimonial text-center slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 970px;" tabindex="0">
+<div class="testimonial-caption">
+<p>"Supercharge your WordPress hosting with detailed website analytics, marketing
+tools. Our experts are just part of the reason Bluehost is the ideal home for your
+WordPress website. We're here to help you succeed!</p>
+</div>
+
+<div class="testimonial-founder d-flex align-items-center justify-content-center">
+<div class="founder-img">
+<img src="./relogio_files/xtestimonial.png.pagespeed.ic.e1BcsjIiek.webp" alt="" data-pagespeed-url-hash="17877349" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="founder-text">
+<span>Jacson Miller</span>
+<p>Designer @Colorlib</p>
+</div>
+</div>
+</div><div class="single-testimonial text-center slick-slide slick-cloned" data-slick-index="2" aria-hidden="true" style="width: 970px;" tabindex="-1">
+<div class="testimonial-caption">
+<p>"Supercharge your WordPress hosting with detailed website analytics, marketing
+tools. Our experts are just part of the reason Bluehost is the ideal home for your
+WordPress website. We're here to help you succeed!</p>
+</div>
+
+<div class="testimonial-founder d-flex align-items-center justify-content-center">
+<div class="founder-img">
+<img src="./relogio_files/xtestimonial.png.pagespeed.ic.e1BcsjIiek.webp" alt="" data-pagespeed-url-hash="17877349" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="founder-text">
+<span>Jacson Miller</span>
+<p>Designer @Colorlib</p>
+</div>
+</div>
+</div><div class="single-testimonial text-center slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" style="width: 970px;" tabindex="-1">
+<div class="testimonial-caption">
+<p>"Supercharge your WordPress hosting with detailed website analytics, marketing
+tools. Our experts are just part of the reason Bluehost is the ideal home for your
+WordPress website. We're here to help you succeed!</p>
+</div>
+
+<div class="testimonial-founder d-flex align-items-center justify-content-center">
+<div class="founder-img">
+<img src="./relogio_files/xtestimonial.png.pagespeed.ic.e1BcsjIiek.webp" alt="" data-pagespeed-url-hash="17877349" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="founder-text">
+<span>Jacson Miller</span>
+<p>Designer @Colorlib</p>
+</div>
+</div>
+</div></div></div>
+
+
+<button type="button" class="slick-next slick-arrow" style="display: block;"><i class="ti-angle-right"></i></button></div>
+
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="home-blog section-padding40">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+
+<div class="section-tittle mb-50">
+<h2>Latest News</h2>
+</div>
+</div>
+</div>
+<div class="blog-active slick-initialized slick-slider"><button type="button" class="slick-prev slick-arrow" style="display: block;"><i class="ti-angle-left"></i></button>
+<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4680px; transform: translate3d(-1170px, 0px, 0px);"><div class="col-lg-6 col-md-6 col-sm-12 slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" style="width: 585px;" tabindex="-1">
+<div class="single-location mb-30">
+<div class="location-img">
+<img src="./relogio_files/xhome-blog2.png.pagespeed.ic.Spsxmf_jSP.webp" alt="" data-pagespeed-url-hash="3381636891" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="location-details">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="location-btn" tabindex="-1">Tips</a>
+<ul>
+<li>12 March I by Alan</li>
+</ul>
+<p><a href="https://preview.colorlib.com/theme/calvin/blog_details.html" tabindex="-1">The Best SPA Salons For Your Relaxation</a></p>
+</div>
+</div>
+</div><div class="col-lg-6 col-md-6 col-sm-12 slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 585px;" tabindex="-1">
+<div class="single-location mb-30">
+<div class="location-img">
+<img src="./relogio_files/xhome-blog2.png.pagespeed.ic.Spsxmf_jSP.webp" alt="" data-pagespeed-url-hash="3381636891" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="location-details">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="location-btn" tabindex="-1">Tips</a>
+<ul>
+<li>12 March I by Alan</li>
+</ul>
+<p><a href="https://preview.colorlib.com/theme/calvin/blog_details.html" tabindex="-1">The Best SPA Salons For Your Relaxation</a></p>
+</div>
+</div>
+</div><div class="col-lg-6 col-md-6 col-sm-12 slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 585px;" tabindex="0">
+<div class="single-location mb-30">
+<div class="location-img">
+<img src="./relogio_files/xhome-blog1.png.pagespeed.ic.I2U4ILIwPP.webp" alt="" data-pagespeed-url-hash="3087136970" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="location-details">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="location-btn" tabindex="0">Tips</a>
+<ul>
+<li>12 March I by Alan</li>
+</ul>
+<p><a href="https://preview.colorlib.com/theme/calvin/blog_details.html" tabindex="0">The Best SPA Salons For Your Relaxation</a></p>
+</div>
+</div>
+</div><div class="col-lg-6 col-md-6 col-sm-12 slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 585px;" tabindex="0">
+<div class="single-location mb-30">
+<div class="location-img">
+<img src="./relogio_files/xhome-blog2.png.pagespeed.ic.Spsxmf_jSP.webp" alt="" data-pagespeed-url-hash="3381636891" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="location-details">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="location-btn" tabindex="0">Tips</a>
+<ul>
+<li>12 March I by Alan</li>
+</ul>
+<p><a href="https://preview.colorlib.com/theme/calvin/blog_details.html" tabindex="0">The Best SPA Salons For Your Relaxation</a></p>
+</div>
+</div>
+</div><div class="col-lg-6 col-md-6 col-sm-12 slick-slide" data-slick-index="2" aria-hidden="true" style="width: 585px;" tabindex="-1">
+<div class="single-location mb-30">
+<div class="location-img">
+<img src="./relogio_files/xhome-blog2.png.pagespeed.ic.Spsxmf_jSP.webp" alt="" data-pagespeed-url-hash="3381636891" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="location-details">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="location-btn" tabindex="-1">Tips</a>
+<ul>
+<li>12 March I by Alan</li>
+</ul>
+<p><a href="https://preview.colorlib.com/theme/calvin/blog_details.html" tabindex="-1">The Best SPA Salons For Your Relaxation</a></p>
+</div>
+</div>
+</div><div class="col-lg-6 col-md-6 col-sm-12 slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" style="width: 585px;" tabindex="-1">
+<div class="single-location mb-30">
+<div class="location-img">
+<img src="./relogio_files/xhome-blog1.png.pagespeed.ic.I2U4ILIwPP.webp" alt="" data-pagespeed-url-hash="3087136970" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="location-details">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="location-btn" tabindex="-1">Tips</a>
+<ul>
+<li>12 March I by Alan</li>
+</ul>
+<p><a href="https://preview.colorlib.com/theme/calvin/blog_details.html" tabindex="-1">The Best SPA Salons For Your Relaxation</a></p>
+</div>
+</div>
+</div><div class="col-lg-6 col-md-6 col-sm-12 slick-slide slick-cloned" data-slick-index="4" aria-hidden="true" style="width: 585px;" tabindex="-1">
+<div class="single-location mb-30">
+<div class="location-img">
+<img src="./relogio_files/xhome-blog2.png.pagespeed.ic.Spsxmf_jSP.webp" alt="" data-pagespeed-url-hash="3381636891" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="location-details">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="location-btn" tabindex="-1">Tips</a>
+<ul>
+<li>12 March I by Alan</li>
+</ul>
+<p><a href="https://preview.colorlib.com/theme/calvin/blog_details.html" tabindex="-1">The Best SPA Salons For Your Relaxation</a></p>
+</div>
+</div>
+</div><div class="col-lg-6 col-md-6 col-sm-12 slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" style="width: 585px;" tabindex="-1">
+<div class="single-location mb-30">
+<div class="location-img">
+<img src="./relogio_files/xhome-blog2.png.pagespeed.ic.Spsxmf_jSP.webp" alt="" data-pagespeed-url-hash="3381636891" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="location-details">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="location-btn" tabindex="-1">Tips</a>
+<ul>
+<li>12 March I by Alan</li>
+</ul>
+<p><a href="https://preview.colorlib.com/theme/calvin/blog_details.html" tabindex="-1">The Best SPA Salons For Your Relaxation</a></p>
+</div>
+</div>
+</div></div></div>
+
+
+<button type="button" class="slick-next slick-arrow" style="display: block;"><i class="ti-angle-right"></i></button></div>
+</div>
+</section>
+
+</main>
+<footer>
+<div class="footer-wrappr">
+<div class="footer-top">
+
+<section class="wantToWork-area ">
+<div class="container">
+<div class="wants-wrapper w-padding2">
+<div class="row align-items-center justify-content-between">
+<div class="col-xl-5 col-lg-6 col-md-10">
+<div class="wantToWork-caption">
+<img src="./relogio_files/xlogo2_footer.png.pagespeed.ic.o91H7zv0uF.webp" alt="" class="mb-15" data-pagespeed-url-hash="3807891129" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<p>In the mean time shall soon find out the cause of this: What
+was the epicurus towards their children.
+</p>
+<div class="footer-social">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#"><i class="fab fa-twitter"></i></a>
+<a href="https://bit.ly/sai4ull"><i class="fab fa-facebook-f"></i></a>
+<a href="https://preview.colorlib.com/theme/calvin/index.html#"><i class="fab fa-pinterest-p"></i></a>
+<a href="https://preview.colorlib.com/theme/calvin/index.html#"><i class="fas fa-globe"></i></a>
+<a href="https://preview.colorlib.com/theme/calvin/index.html#"><i class="fab fa-instagram"></i></a>
+</div>
+</div>
+</div>
+<div class="col-xl-5 col-lg-6 col-md-10">
+<div class="wantToWork-btn">
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="btn f-right sm-left mr-5">Let's Talk</a>
+<a href="https://preview.colorlib.com/theme/calvin/index.html#" class="border-btn white-btn f-right sm-left  mr-5">Download CV</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</div>
+
+<div class="footer-bottom-area">
+<div class="container">
+<div class="footer-border">
+<div class="row align-items-center">
+<div class="col-xl-6 col-lg-5">
+<div class="footer-copy-right">
+<p>Copyright ©<script>document.write(new Date().getFullYear());</script>2021 All rights reserved | This template is made with <i class="fa fa-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank" rel="nofollow noopener">Colorlib</a></p>
+</div>
+</div>
+<div class="col-xl-6 col-lg-7">
+<div class="header-area header-area2">
+<div class="main-header main-header2">
+<div class="menu-wrapper">
+
+<div class="main-menu">
+<nav>
+<ul>
+<li><a href="https://preview.colorlib.com/theme/calvin/index.html">Home</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/work.html">work</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/service.html">service</a></li>
+<li><a href="https://preview.colorlib.com/theme/calvin/blog.html">Blog</a>
+</li>
+<li><a href="https://preview.colorlib.com/theme/calvin/contact.html">Contact</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<div id="back-top" style="display: block;">
+<a title="Go to Top" href="https://preview.colorlib.com/theme/calvin/index.html#"> <i class="fas fa-level-up-alt"></i></a>
+</div>
+
+
+<script src="./relogio_files/modernizr-3.5.0.min.js.download"></script>
+<script src="./relogio_files/jquery-1.12.4.min.js.download"></script>
+<script src="./relogio_files/popper.min.js+bootstrap.min.js.pagespeed.jc.2cNIGpkQNt.js.download"></script><script>eval(mod_pagespeed_xG7yePciqA);</script>
+<script>eval(mod_pagespeed_jplwFBmz64);</script>
+
+<script src="./relogio_files/owl.carousel.min.js+slick.min.js.pagespeed.jc.yB90iVHRRx.js.download"></script><script>eval(mod_pagespeed_ayYoDTF2HC);</script>
+<script>eval(mod_pagespeed_do93p0CdfB);</script>
+<script src="./relogio_files/jquery.slicknav.min.js+jquery.nice-select.min.js+wow.min.js+animated.headline.js+jquery.magnific-popup.js+jquery.barfiller.js+jquery.counteru.download"></script><script>eval(mod_pagespeed_pYmYlr1V15);</script>
+<script>eval(mod_pagespeed_uF_Hs0R1yK);</script>
+
+<script>eval(mod_pagespeed_t3UUIvS1E_);</script>
+<script>eval(mod_pagespeed_lM_BWDydAX);</script>
+<script>eval(mod_pagespeed_s3tj7VzYa3);</script>
+<script>eval(mod_pagespeed_LEw5PMV_A6);</script>
+
+<script>eval(mod_pagespeed_pP4tZQ6a7n);</script>
+<script>eval(mod_pagespeed_WB340Cn6IE);</script>
+<script>eval(mod_pagespeed_Fe4p2XJz0Z);</script>
+<script>eval(mod_pagespeed_EjbAk$9k12);</script>
+
+<script>eval(mod_pagespeed_Uth7txuY3R);</script>
+<script src="./relogio_files/jquery.form.js+jquery.validate.min.js+mail-script.js+jquery.ajaxchimp.min.js+plugins.js+main.js.pagespeed.jc.GwKNnC35s8.js.download"></script><script>eval(mod_pagespeed_aNeETzPeVv);</script>
+<script>eval(mod_pagespeed_vGw_gt1VZ3);</script>
+<script>eval(mod_pagespeed_7vys0cqgn5);</script>
+<script>eval(mod_pagespeed_MVQs$cAFal);</script>
+
+<script>eval(mod_pagespeed_wW8jRF4g__);</script>
+<script>eval(mod_pagespeed_9MjzCwZCcN);</script>
+
+<script async="" src="./relogio_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+<script defer="" src="./relogio_files/beacon.min.js.download" data-cf-beacon="{&quot;rayId&quot;:&quot;69b183394e6f4b46&quot;,&quot;token&quot;:&quot;cd0b4b3a733644fc843ef0b185f98241&quot;,&quot;version&quot;:&quot;2021.9.0&quot;,&quot;si&quot;:100}"></script>
+
+</body></html>
